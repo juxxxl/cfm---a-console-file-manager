@@ -1,3 +1,3 @@
 # cfm
-a console file manager
+a console file manager /
 just something im making to learn c++
